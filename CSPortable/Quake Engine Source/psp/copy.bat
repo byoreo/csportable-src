@@ -1,1 +1,0 @@
-copy EBOOT.PBP G:\PSP\GAME\CSPortable 0.8\*.*
